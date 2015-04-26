@@ -9,7 +9,7 @@ int main()
 
     printf("Enter number 2-19 (0 to QUIT) : ");
     scanf("%d",&number);
-    if(number>=2&&number<=19&&number!=0)
+    if(number>=2&&number<=50&&number!=0)
     {
         printf("Multiplication Table for %2d\n",number);
         i=1;
