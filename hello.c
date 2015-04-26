@@ -3,6 +3,6 @@
 
 float main()
 {
-    printf("Hello CPE KMUTT");
+    printf("Hi, CPE KMUTT'55");
     return 0;
 }
