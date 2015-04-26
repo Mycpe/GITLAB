@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main()
+float main()
 {
-    printf("Hello Computer Engineering KMUTT");
+    printf("Hello CPE KMUTT");
     return 0;
 }
