@@ -3,6 +3,6 @@
 
 int main()
 {
-    printf("Hello Computer Engineering KMUTT");
+    printf("Hi, Computer Engineering KMUTT'55");
     return 0;
 }
